@@ -1,19 +1,18 @@
 body {
-    background-color: lightsteelblue;
+    background-color: white;
 }
-    h1 {
-        color:green;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
-        font-size: 200%;
-        text-align: center
-      }
-      p {
-        border: 2px solid black;
-        color:green;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
-        font-size: 150%;
-        text-align: center
+h1 {
+  color:green;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+  text-align: center
+}
+p {
+  border: 2px solid black;
+  color:green;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 150%;
+  text-align: center;
 
-      }
- 
-  
+}
+
