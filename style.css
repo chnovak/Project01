@@ -3,8 +3,8 @@ body {
 }
 h1 {
   color:green;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 200%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 400%;
   font-style: italic;
   text-align: center
    
@@ -35,7 +35,7 @@ p {
   align-items: center;
 }
 
-
+.nav {text-align: center;}
 
 
 
@@ -52,4 +52,4 @@ p {
 .button5 {background-color: silver;}
 .button6 {background-color: silver;}
 
-.navbar {align-items: right;}
+.navbar-header {text-align: right;}
