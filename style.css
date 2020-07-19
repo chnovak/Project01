@@ -50,7 +50,7 @@ p {
   align-items: center;
 }
 
-./* Add a background color to the top navigation */
+/* Add a background color to the top navigation */
 .topnav {
   position: absolute;
   background-color: white;
@@ -101,7 +101,7 @@ p {
 
 /* Place the navbar at the bottom of the page, and make it stick */
 .navbar {
-  background-color: #white;
+  background-color: white;
   overflow: hidden;
   position: fixed;
   bottom: 0;
@@ -146,6 +146,6 @@ p {
 .button5 {background-color: silver;}
 .button6 {background-color: silver;}
 
-.navbar-header {text-align: right;}
-
+.navbar-header {text-align: right;
 }
+
