@@ -36,22 +36,11 @@ li a {
   background-color: #dddddd;
 }
 
-#myCarousel {
-  text-align: center;
-}
-
-
-
-
-
-
-
-
 .button {
   background-color: #4CAF50;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 20px 42px;
   text-align: center;
   text-decoration: none;
   display: inline-flex;
