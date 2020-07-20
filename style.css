@@ -18,12 +18,12 @@ h2 {
   text-align: center
    
 }
-
-ul {
+ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+  text-align: center;
 }
 
 li {
@@ -47,3 +47,12 @@ li a {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: flex;
+    top: 100;
+}
