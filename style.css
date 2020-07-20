@@ -36,7 +36,9 @@ li a {
   background-color: #dddddd;
 }
 
-#myCarousel {text-align: center;}
+#myCarousel {
+  text-align: center;
+}
 
 
 
