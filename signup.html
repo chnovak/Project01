@@ -9,15 +9,21 @@
 </head>
 <body>
 
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="signup.html">Sign Up</a></li>
-    <li><a href="#signin">Sign In</a></li>
-    <li><a href="choc.html">Chocolate</a></li>
-    <li><a href="#Truffles">Truffles</a></li>
-    <li><a href="#snacks">Snacks</a></li>
-    
-  </ul>
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.html">My Candy Shoppe</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="signup.html">Sign In</a></li>
+        <li><a href="choc.html">Chocolate</a></li>
+        <li><a href="#">Truffles</a></li>
+        <li><a href="#">Snacks</a></li>
+      </ul>
+    </div>
+  </nav>
+  <br>
+  <br>
   <h1>Sign Up</h1>
 <br>
 <br>
@@ -28,11 +34,11 @@
 >
   <label>
     Your First Name:
-    <input type="text" name="fname">
+    <input type="text" name="fname" required>
   </label>
   <label>
     Your Last Name:
-    <input type="text" name="lname">
+    <input type="text" name="lname" required>
   <label>
     Your Email:
     <input type="email" name="_replyto">
